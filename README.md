@@ -145,7 +145,7 @@ Ce script :
 
 ---
 
-## ▶Tests Manuels (Menu Interactif)
+## Tests Manuels (Menu Interactif)
 
 Pour tester manuellement un module :
 
