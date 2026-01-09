@@ -66,7 +66,7 @@ TP-Groupe-Jour5-WARM/
 Cloner le dépôt du TP :
 
 ```bash
-git clone [URL du repo TP-Groupe-Jour5-WARM]
+git clone https://github.com/Oshimo19/TP-Groupe-Jour5-WARM.git
 ```
 
 Se placer dans le dossier du projet :
